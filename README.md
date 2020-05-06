@@ -14,7 +14,7 @@ This repository converts your exported  whatsapp chat (txt file) to whatsapp cha
 
 **What do i get from this??**
 
-***You can gift your memories with your belowed ones or friends in the form of chat book***
+***You can gift your memories to your belowed ones or friends in the form of chat book***
 
 **Export to chat book is still under process**
 
